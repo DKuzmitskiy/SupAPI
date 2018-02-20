@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 20 15:23:55 MSK 2018
+@default-ufs-platform-release-http\://nexus.sigma.sbrf.ru\:8099/nexus/content/repositories/ufs-platform_release/.lastUpdated=1519129435820
+@default-Platform_release-http\://nexus.sigma.sbrf.ru\:8099/nexus/content/repositories/Platform_release/.lastUpdated=1519129435816
+http\://nexus.sigma.sbrf.ru\:8099/nexus/content/repositories/ufs-platform_thirdparty/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:pom\:2.5 from/to ufs-platform-thirdparty (http\://nexus.sigma.sbrf.ru\:8099/nexus/content/repositories/ufs-platform_thirdparty)\: nexus.sigma.sbrf.ru
+@default-ufs-platform-thirdparty-http\://nexus.sigma.sbrf.ru\:8099/nexus/content/repositories/ufs-platform_thirdparty/.lastUpdated=1519129435824
+http\://nexus.sigma.sbrf.ru\:8099/nexus/content/repositories/ufs-platform_release/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:pom\:2.5 from/to ufs-platform-release (http\://nexus.sigma.sbrf.ru\:8099/nexus/content/repositories/ufs-platform_release)\: nexus.sigma.sbrf.ru
+http\://nexus.sigma.sbrf.ru\:8099/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:pom\:2.5 from/to mirror-of-central (http\://nexus.sigma.sbrf.ru\:8099/nexus/content/groups/public)\: nexus.sigma.sbrf.ru\: nodename nor servname provided, or not known
+@default-mirror-of-central-http\://nexus.sigma.sbrf.ru\:8099/nexus/content/groups/public/.lastUpdated=1519129435809
+http\://nexus.sigma.sbrf.ru\:8099/nexus/content/repositories/Platform_release/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:pom\:2.5 from/to Platform_release (http\://nexus.sigma.sbrf.ru\:8099/nexus/content/repositories/Platform_release)\: nexus.sigma.sbrf.ru
